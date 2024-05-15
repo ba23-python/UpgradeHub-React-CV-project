@@ -1,4 +1,5 @@
 This CV project is elaborated with React+Vite as part of the Upgrade Hub assignments
+Here is the deployed project on Netlify https://verdant-madeleine-565c18.netlify.app/
 
 # React + Vite
 
