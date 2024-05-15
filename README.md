@@ -1,6 +1,7 @@
 This CV project is elaborated with React+Vite as part of the Upgrade Hub assignments
 Here is the deployed project 
-on Netlify [https://verdant-madeleine-565c18.netlify.app/]
+on Netlify 
+[Deployed site] (https://portfolio-fullstack-bilyanaancheva.netlify.app/)
 Responsive Hero page 
 https://ibb.co/qNgyV1Z
 
